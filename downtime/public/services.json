@@ -1,0 +1,20 @@
+[
+  {
+    "priority": 1,
+    "location": "MyHospital",
+    "status": "up",
+    "servicename": "labs"
+  },
+  {
+    "priority": 2,
+    "location": "MyHospital",
+    "status": "down",
+    "servicename": "pacs"
+  },
+  {
+    "priority": 1,
+    "location": "MyHospital",
+    "status": "intermittent",
+    "servicename": "sterile"
+  }
+]
